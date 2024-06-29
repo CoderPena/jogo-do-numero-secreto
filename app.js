@@ -1,5 +1,5 @@
 let menorIntervalo = 1;
-let maiorIntervalo = 3;
+let maiorIntervalo = 10;
 let quantidadeLimiteDeSorteios = maiorIntervalo - menorIntervalo + 1;
 let tentativas = 0;
 let listaDeNumerosSorteados = [];
